@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28398
     wikipedia: http://en.wikipedia.org/wiki/Henry_Slesar
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25086#The-Delegate-from-Venus
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-04-17'
 gutenberg_type: Text
