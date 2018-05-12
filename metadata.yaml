@@ -1,0 +1,38 @@
+_repo: The-Delegate-from-Venus_25086
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Novick, Irving H.
+    alias: Novick
+    birthdate: 1916
+    deathdate: 2004
+    gutenberg_agent_id: '26840'
+    url: http://www.gutenberg.org/2009/agents/26840
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Slesar, Henry
+    birthdate: 1927
+    deathdate: 2002
+    gutenberg_agent_id: '28398'
+    url: http://www.gutenberg.org/2009/agents/28398
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Slesar
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Journalists -- Fiction'
+- !lcc 'PS'
+title: The Delegate from Venus
+url: http://www.gutenberg.org/ebooks/25086
